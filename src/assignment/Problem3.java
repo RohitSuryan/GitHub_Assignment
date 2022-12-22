@@ -17,7 +17,16 @@ public class Problem3 {
 		}
 
 
-				
+		//		for(int i = 0 ; i < 9; i++) {
+		//			
+		//			try {
+		//				System.out.println(VIBGYOR[i]);
+		//			} catch (Exception e) {
+		//				System.out.println("Please don't try to access "  + " index");
+		//			}finally {
+		//				System.out.println("Loop has been finished");
+		//			}
+		//			
 
 
 
