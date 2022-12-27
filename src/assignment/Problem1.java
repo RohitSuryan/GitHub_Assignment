@@ -27,6 +27,8 @@ public class Problem1 {
 		System.out.println("The value of Fahrenheit to Celsius are ");
 		System.out.println(map);
 				  	  	     
+		
+		
 	} 
 	
 	
